@@ -1,0 +1,3 @@
+POCKETBASE
+login:kkmedelis@gmail.com   
+pass:kastanonas12
